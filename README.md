@@ -1,5 +1,3 @@
-ionic serve --address 192.168.43.105 --ssl
-
 # ionic-angular-video-call
 
 A simple video call with ionic7 angular 16 and peerjs.
